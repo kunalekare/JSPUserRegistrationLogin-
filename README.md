@@ -1,1 +1,2 @@
 # JSPUserRegistrationLogin-
+Write a Java Application using JSP to create a Registration Form having attribute as name, password, email, phone no., gender, address, city, state, pin code. The form will allow users to submit their details into database. Upon form submission, login page should be displayed and email id and password should be verified from database. If user is valid then Welcome page should be displayed with session name.
